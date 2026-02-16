@@ -1,10 +1,10 @@
 # Hi, I'm Lilia Hoang!
 
-🎓 AI & Business Analytics student at University of South Florida.
-📊 Passionate about crafting data stories and building scalable systmes.
+**AI & Business Analytics Student** at University of South Florida.
+Passionate about crafting data stories and building scalable systmes.
 
 ---
-## 💼 Technical Skills
+### 💼 Technical Skills
 **Statistical Analysis**
 - Linear regression
 - Hypothesis testing
@@ -17,7 +17,7 @@
 - Interactive dashboards and reports (Power BI)
   
 ---
-## 🛠️Tech Stack
+### 🛠️Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
@@ -28,11 +28,11 @@
 </p>
 
 ---
-## 🌱 About Me
+### 🌱 About Me
 - Love yoga, chess, and swimming
 - Favourite cuisine: Vietnamese and Korean
 
 ---
-## 📫 Let's Connect
+### 📫 Let's Connect
 📧 ngockhanh@usf.edu  
 🔗 https://www.linkedin.com/in/khanhhoanglilia/ 
