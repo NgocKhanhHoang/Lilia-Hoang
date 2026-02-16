@@ -4,22 +4,26 @@
 📊 Passionate about crafting data stories and building scalable systmes. 
 ---
 ## 💼 Technical Skills
-### Statistical Analysis
+**Statistical Analysis**
 - Linear regression
 - Hypothesis testing
 
-### Data Engineering & Modeling
+**Data Engineering & Modeling**
 - Python (Numpy, Pandas, Matplotlib)
 - SQL (MySQL)
 
-### Data Visualization
+**Data Visualization**
 - Interactive dashboards and reports (Power BI)
 ---
 ## 🛠️Tech Stack
-![Python]https://img.shields.io/pypi/pyversions/Pythonlogo=Python&logoColor=Yellow&color=Blue)
-![SQL](https://img.shields.io/pypi/pyversions/mysql?logo=mysql&logoColor=Yellow&color=Green)
-![Power BI](https://img.shields.io/pypi/pyversions/Power%20BI?logoColor=Yellow&color=yellow)
-![Microsoft Excel](https://img.shields.io/pypi/pyversions/Microsoft%20Excel?logoColor=Yellow&color=red)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+</p>
 ---
 ## 🌱 About Me
 - Love yoga, chess, and swimming
