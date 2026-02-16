@@ -4,15 +4,15 @@
 📊 Passionate about crafting data stories and building scalable systmes. 
 
 ## 💼 Technical Skills
-## Statistical Analysis
+### Statistical Analysis
 - Linear regression
 - Hypothesis testing
 
-## Data Engineering & Modeling
-- Python (Numpy, Pandas)
-- SQL (My SQL)
+### Data Engineering & Modeling
+- Python (Numpy, Pandas, Matplotlib)
+- SQL (MySQL)
 
-## Data Visualization
+### Data Visualization
 - Interactive dashboards and reports (Power BI)
 
 ## 🛠️Tech Stack
